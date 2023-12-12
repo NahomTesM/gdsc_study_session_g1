@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.counter-container {
+    text-align: center;
+}
+
+#count-display {
+    font-size: 2em;
+}
+
+button {
+    font-size: 1em;
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
