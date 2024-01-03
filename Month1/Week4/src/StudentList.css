@@ -1,0 +1,15 @@
+.group-container {
+    text-align: center;
+    margin: 20px;
+    display: flex;
+    gap: 30px;
+  }
+  
+  .member-container {
+    margin-bottom: 10px;
+  }
+  
+  img {
+    margin-top: 10px;
+  }
+  
